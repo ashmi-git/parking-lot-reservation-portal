@@ -23,7 +23,7 @@ Run instruction:
       http://localhost:8080
 - Example endpoints:
       - POST /reserve → Create a new reservation
-        {
+        - {
           "slotId": 1,
           "customerName": "John Doe",
           "startTime": "2025-08-22T10:00:00",
